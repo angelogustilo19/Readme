@@ -1,4 +1,3 @@
-# Readme
 # Data Science & Machine Learning Projects 
 
 Welcome to my repository for **Data Science, Machine Learning, and Data Analysis** projects!  
