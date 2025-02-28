@@ -1,10 +1,11 @@
+#Read.me
 # Data Science & Machine Learning Projects 
 
 Welcome to my repository for **Data Science, Machine Learning, and Data Analysis** projects!  
 This includes **Stock Market Predictions (AAPL) and Airbnb Data Analysis**.
 
 ##  Projects:
-### Stock Market Prediction (AAPL) **
+### Stock Market Prediction (AAPL) 
 - **File:** `stock_analysis.py`
 - **Description:** Uses **LSTM & Random Forest** to predict Apple (AAPL) stock prices.
 - **Features:**
@@ -13,7 +14,7 @@ This includes **Stock Market Predictions (AAPL) and Airbnb Data Analysis**.
   -  **Monte Carlo Simulation** for future price scenarios
   -  **AI Models:** LSTM & Random Forest for price prediction
 
-### **2️ Airbnb Data Analysis **
+### 2️ Airbnb Data Analysis 
 - **File:** `airbnb_eda.py`
 - **Description:** Performs **Exploratory Data Analysis (EDA)** on Airbnb listings.
 - **Features:**
