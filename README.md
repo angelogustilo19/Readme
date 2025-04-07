@@ -15,7 +15,27 @@ I am focused on **leveraging data-driven insights** to improve decision-making i
 ---
 
 ## **Projects**
-### **1. Stock Market Prediction (AAPL)**
+
+### **1. ShopEase Inc. Sales Data Analysis**
+This project analyzes sales data for ShopEase Inc. using Python and Jupyter Notebook. It focuses on cleaning and preparing transactional data, performing exploratory data analysis (EDA), and generating visualizations to uncover trends. The goal is to identify key business insights related to sales performance, customer behavior, and regional activity. Final outputs include a cleaned dataset, summary statistics, visualizations, and data-driven recommendations.
+
+Tools & Technologies
+-Python (pandas, matplotlib, seaborn)
+-Jupyter Notebook
+-CSV and Excel for input and output
+
+Project Overview
+-This project analyzes retail sales data for ShopEase Inc. to identify key business insights.
+-It involves data cleaning, exploratory data analysis, and visualizations to support decision-making.
+-The analysis focuses on customer behavior, sales trends, product performance, and regional patterns.
+
+Key Deliverables
+-Cleaned and structured dataset exported as CSV
+-Summary statistics for numeric features (quantity, price, total amount)
+-Visualizations including line plots, bar charts, and correlation heatmaps
+-Actionable recommendations and ethical considerations based on data findings
+
+### **2. Stock Market Prediction (AAPL)**
 - **Description:** Uses **LSTM & Random Forest** to predict Apple (AAPL) stock prices.
 - **Features:**
   - **Technical Analysis:** RSI, MACD, Moving Averages
@@ -25,7 +45,7 @@ I am focused on **leveraging data-driven insights** to improve decision-making i
 
 ---
 
-### **2. Airbnb Data Analysis**
+### **3. Airbnb Data Analysis**
 - **Description:** Performs **Exploratory Data Analysis (EDA)** on Airbnb listings.
 - **Features:**
   - **Price Distribution & Trends**
