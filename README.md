@@ -16,8 +16,27 @@ I am focused on **leveraging data-driven insights** to improve decision-making i
 
 ## **Projects**
 
+## 1. Customer Churn & Segmentation Analysis (Latest)
 
-## 1. ShopEase Inc. Sales Data Analysis
+**Description:**  
+Analyzed a fictional customer dataset to predict churn, identify customer segments, and generate business insights.  
+Performed EDA, segmentation, and time series forecasting, then built machine learning models using **Random Forest** and **XGBoost**.
+
+**Tools & Technologies:**
+- Python (Pandas, Scikit-Learn, XGBoost, Matplotlib, Seaborn)
+- Jupyter Notebook
+
+**Project Highlights:**
+- Cleaned and exported structured dataset  
+- 100% model accuracy on test set (RF & XGBoost)  
+- Visualized customer segmentation and seasonal trends  
+- Delivered business recommendations for marketing, retention, and inventory strategy  
+
+> 🔹 All data used is fictional and for educational purposes only.
+
+---
+
+## 2. ShopEase Inc. Sales Data Analysis
 
 **Description:**  
 Analyzed sales data for ShopEase Inc. using Python and Jupyter Notebook to extract business insights.  
@@ -30,14 +49,14 @@ Final outputs included cleaned datasets, summary statistics, visualizations, and
 - CSV and Excel for input and output
 
 **Project Highlights:**
-- Cleaned and structured dataset exported as CSV
-- Summary statistics for numeric features (quantity, price, total amount)
-- Visualizations including line plots, bar charts, and correlation heatmaps
-- Actionable recommendations and ethical considerations based on data findings
+- Cleaned and structured dataset exported as CSV  
+- Summary statistics for numeric features (quantity, price, total amount)  
+- Visualizations including line plots, bar charts, and correlation heatmaps  
+- Actionable recommendations and ethical considerations based on data findings  
 
 ---
 
-## 2. Stock Market Prediction (AAPL)
+## 3. Stock Market Prediction (AAPL)
 
 **Description:**  
 Uses **LSTM & Random Forest** to predict Apple (AAPL) stock prices.
@@ -50,7 +69,7 @@ Uses **LSTM & Random Forest** to predict Apple (AAPL) stock prices.
 
 ---
 
-## 3. Airbnb Data Analysis
+## 4. Airbnb Data Analysis
 
 **Description:**  
 Performs **Exploratory Data Analysis (EDA)** on Airbnb listings.
@@ -59,6 +78,4 @@ Performs **Exploratory Data Analysis (EDA)** on Airbnb listings.
 - Price distribution & seasonal trends  
 - Analysis of expensive neighborhoods & property types  
 - Review scores vs. pricing trends  
-- Host experience impact on pricing behavior
-
-
+- Host experience impact on pricing behavior  
