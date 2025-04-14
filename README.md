@@ -32,7 +32,7 @@ Performed EDA, segmentation, and time series forecasting, then built machine lea
 - Visualized customer segmentation and seasonal trends  
 - Delivered business recommendations for marketing, retention, and inventory strategy  
 
-> 🔹 All data used is fictional and for educational purposes only.
+
 
 ---
 
