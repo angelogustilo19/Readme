@@ -1,26 +1,45 @@
 # Data Science & Machine Learning Projects
 
 ## About Me  
-I am a **Master’s student in Information Systems Management** at Stanton University with a background in Business Administration.  
-I have experience in **data analytics, financial risk modeling, machine learning, and business process optimization**.  
+I am a Master’s student in Information Systems Management at Stanton University with a background in Business Administration.  
+I have experience in data analytics, financial risk modeling, machine learning, and business process optimization.  
 
-### **Skills & Expertise**
-- **Programming:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow), SQL  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn  
-- **Machine Learning:** Time-Series Forecasting, LSTM, Random Forest, Monte Carlo Simulations  
-- **Project Management:** Agile, Business Intelligence, SDLC  
+### Skills & Expertise
+- Programming: Python (Pandas, NumPy, Scikit-Learn, TensorFlow), SQL  
+- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn  
+- Machine Learning: Time-Series Forecasting, LSTM, Random Forest, XGBoost, Monte Carlo Simulations  
+- Project Management: Agile, Business Intelligence, SDLC  
+- Tools: Jupyter Notebook, Git, Excel, MySQL, Power BI
 
-I am focused on **leveraging data-driven insights** to improve decision-making in **finance, business intelligence, and market analysis**.
+I am passionate about leveraging data-driven insights to optimize decision-making in finance, marketing, and operations.
 
 ---
 
-## **Projects**
+## 1. EDA, Sales Prediction, and TensorFlow Regression Modeling 
 
-## 1. Customer Churn & Segmentation Analysis (Latest)
+**Description:**  
+Conducted full-cycle data analysis on a customer dataset to uncover patterns in sales, churn, and spending behavior.  
+Combined traditional regression with deep learning (TensorFlow) to predict sales based on marketing and seasonal factors.
+
+**Tools & Technologies:**
+- Python (Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow)
+- Jupyter Notebook
+- Excel & CSV files
+
+**Project Highlights:**
+- Automated data cleaning: handled missing values and outliers using IQR  
+- Built both Linear Regression and TensorFlow models for prediction  
+- Visualized key EDA insights (distribution, correlation, seasonality)  
+- Delivered business interpretation of results and model limitations  
+- Generated comprehensive project PDF with visuals and explanation  
+
+---
+
+## 2. Customer Churn & Segmentation Analysis
 
 **Description:**  
 Analyzed a fictional customer dataset to predict churn, identify customer segments, and generate business insights.  
-Performed EDA, segmentation, and time series forecasting, then built machine learning models using **Random Forest** and **XGBoost**.
+Performed EDA, segmentation, and time series forecasting, then built machine learning models using Random Forest and XGBoost.
 
 **Tools & Technologies:**
 - Python (Pandas, Scikit-Learn, XGBoost, Matplotlib, Seaborn)
@@ -32,50 +51,46 @@ Performed EDA, segmentation, and time series forecasting, then built machine lea
 - Visualized customer segmentation and seasonal trends  
 - Delivered business recommendations for marketing, retention, and inventory strategy  
 
-
-
 ---
 
-## 2. ShopEase Inc. Sales Data Analysis
+## 3. ShopEase Inc. Sales Data Analysis
 
 **Description:**  
-Analyzed sales data for ShopEase Inc. using Python and Jupyter Notebook to extract business insights.  
-Focused on cleaning and preparing transactional data, performing EDA, and generating visualizations to uncover trends.  
-Final outputs included cleaned datasets, summary statistics, visualizations, and data-driven recommendations.
+Analyzed transactional sales data to uncover business insights.  
+Focused on cleaning, exploration, and generating recommendations based on real sales metrics.
 
 **Tools & Technologies:**
-- Python (pandas, matplotlib, seaborn)
-- Jupyter Notebook
-- CSV and Excel for input and output
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook  
+- Excel & CSV for I/O
 
 **Project Highlights:**
 - Cleaned and structured dataset exported as CSV  
-- Summary statistics for numeric features (quantity, price, total amount)  
-- Visualizations including line plots, bar charts, and correlation heatmaps  
-- Actionable recommendations and ethical considerations based on data findings  
+- Summary stats for quantity, price, revenue  
+- Visualizations including line plots, bar charts, and heatmaps  
+- Strategic recommendations derived from findings  
 
 ---
 
-## 3. Stock Market Prediction (AAPL)
+## 4. Stock Market Prediction (AAPL)
 
 **Description:**  
-Uses **LSTM & Random Forest** to predict Apple (AAPL) stock prices.
+Predicting Apple (AAPL) stock prices using LSTM and Random Forest models combined with financial technical indicators.
 
 **Features:**
-- **Technical Analysis:** RSI, MACD, Moving Averages  
-- **Risk Metrics:** Value at Risk (VaR), Sortino Ratio, Drawdown  
-- **Monte Carlo Simulation** for future price scenarios  
-- **AI Models:** LSTM & Random Forest for price prediction
+- RSI, MACD, Moving Averages  
+- Value at Risk (VaR), Sortino Ratio, Drawdown Analysis  
+- Monte Carlo Simulation for forecasting  
+- LSTM and Random Forest trained on historical stock data  
 
 ---
 
-## 4. Airbnb Data Analysis
+## 5. Airbnb Data Analysis
 
 **Description:**  
-Performs **Exploratory Data Analysis (EDA)** on Airbnb listings.
+Performed EDA on Airbnb listing data to analyze market trends and price patterns.
 
 **Features:**
-- Price distribution & seasonal trends  
-- Analysis of expensive neighborhoods & property types  
-- Review scores vs. pricing trends  
-- Host experience impact on pricing behavior  
+- Distribution analysis by location, property type, and review scores  
+- Seasonal pricing trends  
+- Host experience correlation with listing performance  
